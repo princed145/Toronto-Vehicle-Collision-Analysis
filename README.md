@@ -1,4 +1,4 @@
-# TORONTO VEHICLE COLLOSIONS ANALYSIS
+# TORONTO VEHICLE COLLISIONS ANALYSIS
  <p align="Left">
   <img src="https://github.com/user-attachments/assets/5e9916e0-7dea-4f34-b5e6-86e71a69ddb8" width="900" height="500" alt="Alt text">
    </p>
