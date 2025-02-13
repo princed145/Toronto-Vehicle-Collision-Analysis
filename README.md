@@ -11,11 +11,11 @@
 ## 📌 Table of Contents  
 
 1. [Introduction](#OVERVIEW)  
-2. [Background & Problem Statement](#BACKGROUND--&--PROBLEM--STATEMENT)  
+2. [Background & Problem Statement](#BACKGROUND-&-PROBLEM-STATEMENT)  
 3. [Aim](#AIM)
 4. [Tech Stack](#TECH--STACK)
 5. [Data](#DATA)  
-6. [Project Outcomes & Insights](#PROJECT--OUTCOMES--AND--INSIGHTS)  
+6. [Project Outcomes & Insights](#PROJECT-OUTCOMES-AND-INSIGHTS)  
 7. [Challenges](#challenges)
 8. [Recommendation](#RECOMMENDATION)
 13. [References](#references)  
