@@ -11,7 +11,7 @@
 ## 📌 Table of Contents  
 
 1. [Introduction](#OVERVIEW)  
-2. [Background & Problem Statement](#BACKGROUND-&-PROBLEM-STATEMENT)  
+2. [Background & Problem Statement](#BACKGROUND--PROBLEM-STATEMENT)  
 3. [Aim](#AIM)
 4. [Tech Stack](#TECH--STACK)
 5. [Data](#DATA)  
@@ -47,7 +47,7 @@ Determine the time-of-day trends to guide law enforcement in deploying resources
 Assess the impact of driver behaviors (e.g., fail-to-remain incidents).
 Help lawmakers and city officials take proactive measures to reduce road accidents.
 
-## TECK STACK
+## TECH STACK
   Category  | Technogies Used | Why?
   ------------- | ------------- | ------------
   Programming | Python 3.10.11| Python is a versatile and widely used programming language for data analysis, offering extensive libraries for handling large datasets. Due to its simple, readable syntax It makes data analysts jobs much more efficient 
