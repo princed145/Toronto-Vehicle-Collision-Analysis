@@ -12,18 +12,13 @@
 
 1. [Introduction](#OVERVIEW)  
 2. [Background & Problem Statement](#BACKGROUND--&--PROBLEM--STATEMENT)  
-3. [Project Scope](#project-scope)  
-4. [Data Overview](#data-overview)  
-   - [Data Collection](#data-collection)  
-   - [Data Cleaning & Processing](#data-cleaning--processing)  
-5. [Technologies Used](#technologies-used)  
-6. [Exploratory Data Analysis & Visualization](#exploratory-data-analysis--visualization)  
-7. [Key Findings & Insights](#key-findings--insights)  
-8. [Project Outcomes & Business Impact](#project-outcomes--business-impact)  
-9. [Challenges](#challenges)  
-10. [Future Enhancements](#future-enhancements)  
-11. [Conclusion](#conclusion)  
-12. [References](#references)  
+3. [Aim](#AIM)
+4. [Tech Stack](#TECH--STACK)
+5. [Data](#DATA)  
+6. [Project Outcomes & Insights](#PROJECT--OUTCOMES--AND--INSIGHTS)  
+7. [Challenges](#challenges)
+8. [Recommendation](#RECOMMENDATION)
+13. [References](#references)  
 
 
 ## OVERVIEW 
