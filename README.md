@@ -13,7 +13,7 @@
 1. [Introduction](#OVERVIEW)  
 2. [Background & Problem Statement](#BACKGROUND--PROBLEM-STATEMENT)  
 3. [Aim](#AIM)
-4. [Tech Stack](#TECH--STACK)
+4. [Tech Stack](#TECH-STACK)
 5. [Data](#DATA)  
 6. [Project Outcomes & Insights](#PROJECT-OUTCOMES-AND-INSIGHTS)  
 7. [Challenges](#challenges)
