@@ -106,7 +106,7 @@ Help lawmakers and city officials take proactive measures to reduce road acciden
    *	Milliken: Rounding out the top five, this neighbourhood witnesses an annual average of 960.04 collisions. 
 
    
-### 2) Total 5 highest collisions neighourboodhood 
+### 2) Total 5 highest collisions neighbourhood 
    <p align="left">
   <img src="https://github.com/user-attachments/assets/da0c9d7e-7309-45c7-bc7b-9ec88c989b3d" width="700" height="300" alt="Alt text">
    </p>
