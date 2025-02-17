@@ -6,7 +6,7 @@
 
 
 
-## 📌 Table of Contents  
+## 📌 TABLE OF CONTENT  
 
 1. [Introduction](#OVERVIEW)  
 2. [Background & Problem Statement](#BACKGROUND--PROBLEM-STATEMENT)  
