@@ -3,6 +3,8 @@
   <img src="https://github.com/user-attachments/assets/5e9916e0-7dea-4f34-b5e6-86e71a69ddb8" width="900" height="500" alt="Alt text">
    </p>
 
+## TABLEAU DASHBOARD 
+[View my Tableau work here!](https://public.tableau.com/app/profile/prince.dobariya4250/viz/TorontoVehicleCollisionsAnalysis/Toronto)
 
 
 
